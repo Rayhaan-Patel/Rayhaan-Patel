@@ -1,43 +1,52 @@
-<h1 align="center">Hi, I'm Rayhaan 👋</h1>
+<h1 align="center">Rayhaan Patel</h1>
+<h3 align="center">Programmer & Entrepreneur · Founder & CEO of <a href="https://taptappay.co.uk">TapTapPay Ltd</a></h3>
 
 <p align="center">
-  <em>Programming isn't just about building and shipping. It's about providing meaning behind what you build — something that truly makes a difference.</em>
+  <em>"It's not just code, it's an experience."</em>
 </p>
 
 <p align="center">
   <a href="https://rayhaan-patel.com"><img src="https://img.shields.io/badge/Website-rayhaan--patel.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/Rayhaan-Patel"><img src="https://img.shields.io/github/followers/Rayhaan-Patel?label=Followers&style=for-the-badge&logo=github&color=0A0A0A" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/rayhaan-patel"><img src="https://img.shields.io/badge/LinkedIn-rayhaan--patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@rayhaan-patel.com"><img src="https://img.shields.io/badge/Email-contact%40rayhaan--patel.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### About me
 
-- 💼 Working at **TapTapPay Ltd**
-- 🔭 Currently building **FlexCoordinator**
-- 🤖 Entered the **Google Chrome Built-in AI Challenge 2025**
-- 🌐 More about me at [rayhaan-patel.com](https://rayhaan-patel.com)
+I enjoy building, not only for personal gain but to make a real difference. My personal goal is to give people the best user interfaces and experiences I can.
+
+> Programming isn't just about building and shipping. It's about providing meaning behind what you build.
+
+- 🏢 **Founder & CEO, [TapTapPay Ltd](https://taptappay.co.uk)** (2024 to present). I run product strategy, UI/UX architecture, commercial partnerships and operations. We build payment infrastructure and unattended kiosks for charities and institutions.
+- 🎓 Studying **Computer Science at Lancaster University**
+- 🌱 Started at 14 with Scratch and Roblox Studio, and never stopped building
+
+### What I'm building
+
+| Project | Description |
+| --- | --- |
+| **[VibeFree](https://vibefree.dev)** · AI | Free AI chat and agentic coding for everyone, funded by ethical developer ads instead of a subscription. Includes a full VS Code extension with inline diffs, command execution, MCP servers and a self-serve ad marketplace. Runs under TapTapPay Ltd. |
+| **[TapTapPay](https://taptappay.co.uk)** · Fintech | A multi-platform donation system for charities, with transaction and analytics tools. Built on SumUp card readers, Kotlin/Java mobile apps and Firebase. |
+| **[CodeArena](https://rayhaan-patel.com/codearena)** · Competitive programming | A gamified coding arena with 1v1 ranked ELO duels, an AI tutor and Zen practice. Code is graded in Python, TypeScript, C++, Rust, Java and Go. Real-time play runs on Socket.io, and a classroom edition is planned for UK GCSE and A-Level teachers. |
+| **[Lily](https://rayhaan-patel.com/Lily)** · AI agent | A local-first AI with hybrid inference, long-term memory based on embeddings, and bring-your-own-key OpenRouter support. No servers and no data harvesting. |
+| **[Dapp](https://rayhaan-patel.com/dapp)** · Social | "Connect with Purpose." A React Native social app built around real connections: chat unlocks after you dap, plus a global heatmap, live events and group daps. |
+| **Jarvis** · AI agent | An autonomous AI agent that controls your computer and carries out complex multi-step tasks for you. |
 
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode&perline=9" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=py,html,css,php,js,mysql,cs,java,kotlin&perline=9" alt="Languages">
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,cloudflare,docker,figma&perline=9" alt="Frameworks and tools">
 </p>
 
-### Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [FlexCoordinator](https://github.com/Rayhaan-Patel/FlexCoordinator) | _Add a one-line description_ |
-| [Chrome Built-in AI Challenge 2025](https://github.com/Rayhaan-Patel/Google-Chrome-Built-in-AI-Challenge-2025) | _Add a one-line description_ |
+**Areas I focus on:** full-stack development · UI design · infrastructure · large-scale events · business operations
 
 ### GitHub stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rayhaan-Patel&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhaan-Patel&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhaan-Patel&hide_border=true&bg_color=00000000" alt="Contribution graph">
 </p>
