@@ -1,4 +1,9 @@
-<h1 align="center">Rayhaan Patel</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/name-dark.svg">
+    <img src="./assets/name-light.svg" alt="Rayhaan Patel" width="548">
+  </picture>
+</p>
 <h3 align="center">Programmer & Entrepreneur · Founder & CEO of <a href="https://taptappay.co.uk">TapTapPay Ltd</a></h3>
 
 <p align="center">
