@@ -39,6 +39,10 @@ I enjoy building, not only for personal gain but to make a real difference. My p
 | **[Dapp](https://rayhaan-patel.com/dapp)** · Social | "Connect with Purpose." A React Native social app built around real connections: chat unlocks after you dap, plus a global heatmap, live events and group daps. |
 | **Jarvis** · AI agent | An autonomous AI agent that controls your computer and carries out complex multi-step tasks for you. |
 
+<p align="center">
+  <a href="https://vibefree.dev"><img src="./assets/vibefree-free-tokens.png" alt="1,064,546,105 free tokens provided at VibeFree" width="100%"></a>
+</p>
+
 ### Tech stack
 
 <p>
