@@ -30,6 +30,10 @@ I enjoy building, not only for personal gain but to make a real difference. My p
 
 ### What I'm building
 
+<p align="center">
+  <a href="https://vibefree.dev"><img src="./assets/vibefree-free-tokens.png" alt="1,064,546,105 free tokens provided at VibeFree" width="100%"></a>
+</p>
+
 | Project | Description |
 | --- | --- |
 | **[VibeFree](https://vibefree.dev)** · AI | Free AI chat and agentic coding for everyone, funded by ethical developer ads instead of a subscription. Includes a full VS Code extension with inline diffs, command execution, MCP servers and a self-serve ad marketplace. Runs under TapTapPay Ltd. |
@@ -38,10 +42,6 @@ I enjoy building, not only for personal gain but to make a real difference. My p
 | **[Lily](https://rayhaan-patel.com/Lily)** · AI agent | A local-first AI with hybrid inference, long-term memory based on embeddings, and bring-your-own-key OpenRouter support. No servers and no data harvesting. |
 | **[Dapp](https://rayhaan-patel.com/dapp)** · Social | "Connect with Purpose." A React Native social app built around real connections: chat unlocks after you dap, plus a global heatmap, live events and group daps. |
 | **Jarvis** · AI agent | An autonomous AI agent that controls your computer and carries out complex multi-step tasks for you. |
-
-<p align="center">
-  <a href="https://vibefree.dev"><img src="./assets/vibefree-free-tokens.png" alt="1,064,546,105 free tokens provided at VibeFree" width="100%"></a>
-</p>
 
 ### Tech stack
 
