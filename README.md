@@ -26,7 +26,7 @@ I enjoy building, not only for personal gain but to make a real difference. My p
 
 - 🏢 **Founder & CEO, [TapTapPay Ltd](https://taptappay.co.uk)** (2024 to present). I run product strategy, UI/UX architecture, commercial partnerships and operations. We build payment infrastructure and unattended kiosks for charities and institutions.
 - 🎓 Studying **Computer Science at Lancaster University**
-- 🌱 Started at 14 with Scratch and Roblox Studio, and never stopped building
+- 🌱 Started at 8 with Scratch and Roblox Studio, and never stopped building
 
 ### What I'm building
 
